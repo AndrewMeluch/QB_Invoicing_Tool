@@ -17,7 +17,7 @@ invoice using the enter key, minimal typing, and the arrow keys.
 You can stage the invoice for entry and begin another without 
 needing to wait for QuickBooks.
 
-The macros will also remember the quantity entered for an item
+The macros will also remember the quantity entered for an item and
 suggest it next time the item is selected.  They also remember the
 frequency with which items are invoiced, and will suggest these
 higher in the dropdown list for maximum efficiency.
